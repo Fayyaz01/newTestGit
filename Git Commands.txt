@@ -1,0 +1,9 @@
+Connection 
+git clone https://username:password@github.com/username/repository.git
+
+add
+git add
+
+commit 
+git commit -m "Message"
+
